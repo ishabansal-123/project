@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.x": "cpp",
+        "*.def": "cpp",
+        "*.inc": "cpp",
+        "internet": "c",
+        "socket": "c"
+    }
+}
